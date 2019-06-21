@@ -8,12 +8,9 @@
 \name{Dongyang Dai$^{1, 2}$, Zhiyong Wu$^{1,2,3,*}$\thanks{* Corresponding author}, Shiyin Kang$^{4}$, Xixin Wu$^3$, Jia Jia$^{1,2}$, Dan Su$^{4}$, Dong Yu$^{4}$,\\Helen Meng$^{1,3}$}
 %The maximum number of authors in the author list is twenty. If the number of contributing authors is more than twenty, they should be listed in a footnote or in acknowledgement section, as appropriate.
 \address{
-  $^1$Tsinghua-CUHK Joint Research Center for Media Sciences, Technologies and Systems, \\
-  Graduate School at Shenzhen, Tsinghua University, Shenzhen, China\\
-  $^2$Beijing National Research Centre for Information Science and Technology (BNRist),\\
-  Department of Computer Science and Technology, Tsinghua University, Beijing, China \\
-  $^3$Department of Systems Engineering and Engineering Management, \\
-  The Chinese University of Hong Kong, Shatin, N.T., Hong Kong SAR, China\\
+  $^1$MJRC, Graduate School at Shenzhen, Tsinghua University, China\\
+  $^2$ BNRist, Dept. of Computer Science and Technology, Tsinghua University, China \\
+  $^3$Dept. of Systems Engineering \& Engineering Management, CUHK, Hong Kong SAR, China\\
   $^4$Tencent AI Lab, Tencent, Shenzhen, China}
 \email{ddy17@mails.tsinghua.edu.cn, \{zywu,wuxx,hmmeng\}@se.cuhk.edu.hk\\
 	\{shiyinkang,dansu,dyu\}@tencent.com, jjia@tsinghua.edu.cn}
@@ -64,7 +61,7 @@ With the development of neural network research, end-to-end TTS has become a new
 
 \begin{figure}[t]
 	\centering
-	\includegraphics[scale=0.4]{pics3/architecture2.eps}
+	\includegraphics[scale=0.35]{pics3/architecture2.eps}
 	\caption{Model architecture}
 	\label{fig:model_architecture}
 \end{figure}
@@ -76,7 +73,7 @@ The proposed framework consists of a pre-trained BERT and NN based classifier. D
 
 \begin{figure}[t]
 	\centering
-	\includegraphics[scale=0.33]{pics3/bert2.eps}
+	\includegraphics[scale=0.31]{pics3/bert2.eps}
 	\caption{BERT architecture}
 	\label{fig:bert}
 \end{figure}
@@ -240,6 +237,9 @@ In this paper, we proposed an end-to-end framework for Chinese polyphone disambi
 To explore the impact of contextual information on polyphone disambiguation, three different NN based classifiers are investigated and compared with the LSTM baseline approach \cite{shan2016bi}. Experimental results demonstrate the effectiveness of the proposed end-to-end framework and that the BERT model pre-trained on a large amount of unsupervised data can effectively extract semantic features, which greatly enhances the performance of polyphone disambiguation. Meanwhile, the contextual information can also improve the result of polyphone disambiguation, especially the closer the context is to the polyphonic character, the greater its influence on polyphone disambiguation.
 
 
+%\noindent \small \textbf{Acknowledgements}: This work is supported by National Natural Science Foundation of China (NSFC) (61433018, 61375027), joint research fund of NSFC-RGC (Research Grant Council of Hong Kong) (61531166002, N CUHK404/15) and National Social Science Foundation of China (13\&ZD189).
+
+\small  \noindent  \textbf{Acknowledgements}: This work is supported by joint research fund of National Natural Science Foundation of China - Research Grant Council of Hong Kong (NSFC-RGC) (61531166002, N CUHK404/15), National Natural Science Foundation of China (61433018, 61375027). We would also like to thank Tencent AI Lab Rhino-Bird Joint Research Program (No.JR201803) and Tsinghua University - Tencent Joint Laboratory for the support.
 
 
 \bibliographystyle{IEEEtran}
