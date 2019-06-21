@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.3.26)  21 JUN 2019 17:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.3.26)  21 JUN 2019 17:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -616,10 +616,7 @@ File: pics3/ChineseG2P-eps-converted-to.pdf Graphic file (type pdf)
 <use pics3/ChineseG2P-eps-converted-to.pdf>
 Package pdftex.def Info: pics3/ChineseG2P-eps-converted-to.pdf  used on input l
 ine 39.
-(pdftex.def)             Requested size: 227.62204pt x 65.71617pt.
-
-Underfull \vbox (badness 1655) has occurred while \output is active []
-
+(pdftex.def)             Requested size: 216.2411pt x 62.42845pt.
  [1{/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 
@@ -797,6 +794,9 @@ File: pics/attensep.png Graphic file (type png)
 Package pdftex.def Info: pics/attensep.png  used on input line 226.
 (pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
 Underfull \hbox (badness 3098) in paragraph at lines 242--243
 \OT1/ptm/m/n/9 - Re-search Grant Coun-cil of Hong Kong (NSFC-RGC)
  []
@@ -846,7 +846,7 @@ f-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/2018/texmf-dist/f
 onts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1
 /urw/times/utmr8a.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/urw/times
 /utmri8a.pfb>
-Output written on dai.pdf (5 pages, 296006 bytes).
+Output written on dai.pdf (5 pages, 296001 bytes).
 PDF statistics:
  190 PDF objects out of 1000 (max. 8388607)
  115 compressed objects within 2 object streams
