@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.3.26)  6 APR 2019 15:17
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.3.26)  21 JUN 2019 11:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -326,28 +326,182 @@ Package caption3 Info: TeX engine: e-TeX on input line 67.
 \plainfootrulewidth=\dimen137
 \headwidth=\dimen138
 )
-(./dai.aux)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/cjk/texinput/CJKutf8.sty
+Package: CJKutf8 2015/04/18 4.8.4
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2018/04/06 v1.3b Input encoding file
+\inpenc@prehook=\toks21
+\inpenc@posthook=\toks22
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/cjk/texinput/CJK.sty
+Package: CJK 2015/04/18 4.8.4
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/cjk/texinput/mule/MULEenc.sty
+Package: MULEenc 2015/04/18 4.8.4
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/cjk/texinput/CJK.enc
+File: CJK.enc 2015/04/18 4.8.4
+Now handling font encoding C00 ...
+... no UTF-8 mapping file for font encoding C00
+Now handling font encoding C05 ...
+... no UTF-8 mapping file for font encoding C05
+Now handling font encoding C09 ...
+... no UTF-8 mapping file for font encoding C09
+Now handling font encoding C10 ...
+... no UTF-8 mapping file for font encoding C10
+Now handling font encoding C20 ...
+... no UTF-8 mapping file for font encoding C20
+Now handling font encoding C19 ...
+... no UTF-8 mapping file for font encoding C19
+Now handling font encoding C40 ...
+... no UTF-8 mapping file for font encoding C40
+Now handling font encoding C42 ...
+... no UTF-8 mapping file for font encoding C42
+Now handling font encoding C43 ...
+... no UTF-8 mapping file for font encoding C43
+Now handling font encoding C50 ...
+... no UTF-8 mapping file for font encoding C50
+Now handling font encoding C52 ...
+... no UTF-8 mapping file for font encoding C52
+Now handling font encoding C49 ...
+... no UTF-8 mapping file for font encoding C49
+Now handling font encoding C60 ...
+... no UTF-8 mapping file for font encoding C60
+Now handling font encoding C61 ...
+... no UTF-8 mapping file for font encoding C61
+Now handling font encoding C63 ...
+... no UTF-8 mapping file for font encoding C63
+Now handling font encoding C64 ...
+... no UTF-8 mapping file for font encoding C64
+Now handling font encoding C65 ...
+... no UTF-8 mapping file for font encoding C65
+Now handling font encoding C70 ...
+... no UTF-8 mapping file for font encoding C70
+Now handling font encoding C31 ...
+... no UTF-8 mapping file for font encoding C31
+Now handling font encoding C32 ...
+... no UTF-8 mapping file for font encoding C32
+Now handling font encoding C33 ...
+... no UTF-8 mapping file for font encoding C33
+Now handling font encoding C34 ...
+... no UTF-8 mapping file for font encoding C34
+Now handling font encoding C35 ...
+... no UTF-8 mapping file for font encoding C35
+Now handling font encoding C36 ...
+... no UTF-8 mapping file for font encoding C36
+Now handling font encoding C37 ...
+... no UTF-8 mapping file for font encoding C37
+Now handling font encoding C80 ...
+... no UTF-8 mapping file for font encoding C80
+Now handling font encoding C81 ...
+... no UTF-8 mapping file for font encoding C81
+Now handling font encoding C01 ...
+... no UTF-8 mapping file for font encoding C01
+Now handling font encoding C11 ...
+... no UTF-8 mapping file for font encoding C11
+Now handling font encoding C21 ...
+... no UTF-8 mapping file for font encoding C21
+Now handling font encoding C41 ...
+... no UTF-8 mapping file for font encoding C41
+Now handling font encoding C62 ...
+... no UTF-8 mapping file for font encoding C62
+)
+LaTeX Info: Redefining \selectfont on input line 755.
+\CJK@indent=\box28
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
+)) (./dai.aux)
 \openout1 = `dai.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 20.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 20.
- (/usr/local/texlive/2018/texmf-dist/tex/latex/base/ts1cmr.fd
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 14.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 14.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Try loading font information for OT1+ptm on input line 20.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for C00/song/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for C05/song/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for C09/song/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for C10/song/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for C20/song/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for C19/song/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for C40/song/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for C42/song/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for C43/song/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for C50/song/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for C52/song/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for C49/song/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for C60/mj/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for C61/mj/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for C63/mj/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for C64/mj/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for C65/mj/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for C70/song/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for C31/song/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for C32/song/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for C33/song/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for C34/song/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for C35/song/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for C36/song/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for C37/song/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for C80/song/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for C81/song/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for C01/song/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for C11/song/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for C21/song/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for C41/song/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for C62/song/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 14.
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
@@ -356,15 +510,15 @@ File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count105
 \scratchdimen=\dimen139
-\scratchbox=\box28
+\scratchbox=\box29
 \nofMPsegments=\count106
 \nofMParguments=\count107
-\everyMPshowfont=\toks21
+\everyMPshowfont=\toks23
 \MPscratchCnt=\count108
 \MPscratchDim=\dimen140
 \MPnumerator=\count109
 \makeMPintoPDFobject=\count110
-\everyMPtoPDFconversion=\toks22
+\everyMPtoPDFconversion=\toks24
 ) (/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
@@ -401,10 +555,6 @@ Package etexcmds Info: Could not find \expanded.
 (/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 Package: pdftexcmds 2018/01/30 v0.27 Utility functions of pdfTeX for LuaTeX (HO
 )
-
-(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/ifpdf.sty
-Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
-)
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
@@ -424,176 +574,231 @@ e
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 22.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 16.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 22.
-LaTeX Font Info:    Try loading font information for U+msa on input line 22.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 16.
+LaTeX Font Info:    Try loading font information for U+msa on input line 16.
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 22.
+LaTeX Font Info:    Try loading font information for U+msb on input line 16.
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for OT1+pcr on input line 22.
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 16.
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/psnfss/ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
-LaTeX Font Info:    Try loading font information for OMS+pcr on input line 22.
+LaTeX Font Info:    Try loading font information for OMS+pcr on input line 16.
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/psnfss/omspcr.fd
 File: omspcr.fd 
 )
 LaTeX Font Info:    Font shape `OMS/pcr/m/n' in size <9> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 22.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 16.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 24.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 18.
 Package epstopdf Info: Source file: <pics3/ChineseG2P.eps>
-(epstopdf)                    date: 2019-04-05 15:42:37
+(epstopdf)                    date: 2019-04-06 19:29:06
 (epstopdf)                    size: 64656 bytes
 (epstopdf)             Output file: <pics3/ChineseG2P-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-04-05 15:43:28
+(epstopdf)                    date: 2019-04-06 19:30:35
 (epstopdf)                    size: 14645 bytes
 (epstopdf)             Command: <repstopdf --outfile=pics3/ChineseG2P-eps-conve
 rted-to.pdf pics3/ChineseG2P.eps>
-(epstopdf)             \includegraphics on input line 41.
+(epstopdf)             \includegraphics on input line 35.
 Package epstopdf Info: Output file is already uptodate.
 <pics3/ChineseG2P-eps-converted-to.pdf, id=1, 719.68875pt x 207.77625pt>
 File: pics3/ChineseG2P-eps-converted-to.pdf Graphic file (type pdf)
 <use pics3/ChineseG2P-eps-converted-to.pdf>
 Package pdftex.def Info: pics3/ChineseG2P-eps-converted-to.pdf  used on input l
-ine 41.
+ine 35.
 (pdftex.def)             Requested size: 227.62204pt x 65.71617pt.
  [1{/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 
 
  <./pics3/ChineseG2P-eps-converted-to.pdf>]
+Underfull \hbox (badness 1221) in paragraph at lines 52--53
+[]\OT1/ptm/m/n/9 The pro-posed method uses non-shared out-put layer
+ []
+
 Package epstopdf Info: Source file: <pics3/architecture2.eps>
-(epstopdf)                    date: 2019-04-05 15:42:37
+(epstopdf)                    date: 2019-04-06 19:29:06
 (epstopdf)                    size: 63001 bytes
 (epstopdf)             Output file: <pics3/architecture2-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-04-05 15:43:29
+(epstopdf)                    date: 2019-04-06 19:30:36
 (epstopdf)                    size: 14432 bytes
 (epstopdf)             Command: <repstopdf --outfile=pics3/architecture2-eps-co
 nverted-to.pdf pics3/architecture2.eps>
-(epstopdf)             \includegraphics on input line 66.
+(epstopdf)             \includegraphics on input line 60.
 Package epstopdf Info: Output file is already uptodate.
 <pics3/architecture2-eps-converted-to.pdf, id=25, 176.66pt x 322.20375pt>
 File: pics3/architecture2-eps-converted-to.pdf Graphic file (type pdf)
 <use pics3/architecture2-eps-converted-to.pdf>
 Package pdftex.def Info: pics3/architecture2-eps-converted-to.pdf  used on inpu
-t line 66.
-(pdftex.def)             Requested size: 79.49626pt x 144.99034pt.
+t line 60.
+(pdftex.def)             Requested size: 70.66273pt x 128.87921pt.
 Package epstopdf Info: Source file: <pics3/bert2.eps>
-(epstopdf)                    date: 2019-04-05 15:42:37
+(epstopdf)                    date: 2019-04-06 19:29:06
 (epstopdf)                    size: 88238 bytes
 (epstopdf)             Output file: <pics3/bert2-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-04-05 15:43:29
+(epstopdf)                    date: 2019-04-06 19:30:36
 (epstopdf)                    size: 18893 bytes
 (epstopdf)             Command: <repstopdf --outfile=pics3/bert2-eps-converted-
 to.pdf pics3/bert2.eps>
-(epstopdf)             \includegraphics on input line 78.
+(epstopdf)             \includegraphics on input line 72.
 Package epstopdf Info: Output file is already uptodate.
 <pics3/bert2-eps-converted-to.pdf, id=26, 319.1925pt x 644.4075pt>
 File: pics3/bert2-eps-converted-to.pdf Graphic file (type pdf)
 <use pics3/bert2-eps-converted-to.pdf>
 Package pdftex.def Info: pics3/bert2-eps-converted-to.pdf  used on input line 7
-8.
-(pdftex.def)             Requested size: 111.71904pt x 225.546pt.
+2.
+(pdftex.def)             Requested size: 105.33385pt x 212.65514pt.
 Package epstopdf Info: Source file: <pics3/FC22.eps>
-(epstopdf)                    date: 2019-04-05 15:42:37
-(epstopdf)                    size: 66272 bytes
+(epstopdf)                    date: 2019-04-06 19:29:06
+(epstopdf)                    size: 83789 bytes
 (epstopdf)             Output file: <pics3/FC22-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-04-05 15:43:30
-(epstopdf)                    size: 14806 bytes
+(epstopdf)                    date: 2019-04-06 19:30:36
+(epstopdf)                    size: 16477 bytes
 (epstopdf)             Command: <repstopdf --outfile=pics3/FC22-eps-converted-t
 o.pdf pics3/FC22.eps>
-(epstopdf)             \includegraphics on input line 93.
+(epstopdf)             \includegraphics on input line 88.
 Package epstopdf Info: Output file is already uptodate.
-<pics3/FC22-eps-converted-to.pdf, id=27, 243.91125pt x 252.945pt>
+<pics3/FC22-eps-converted-to.pdf, id=27, 243.91125pt x 302.12875pt>
 File: pics3/FC22-eps-converted-to.pdf Graphic file (type pdf)
 <use pics3/FC22-eps-converted-to.pdf>
-Package pdftex.def Info: pics3/FC22-eps-converted-to.pdf  used on input line 93
+Package pdftex.def Info: pics3/FC22-eps-converted-to.pdf  used on input line 88
 .
-(pdftex.def)             Requested size: 115.63243pt x 119.91467pt.
+(pdftex.def)             Requested size: 108.405pt x 134.2786pt.
 Package epstopdf Info: Source file: <pics3/lstm2.eps>
-(epstopdf)                    date: 2019-04-05 15:42:37
-(epstopdf)                    size: 71378 bytes
+(epstopdf)                    date: 2019-04-06 19:29:06
+(epstopdf)                    size: 88910 bytes
 (epstopdf)             Output file: <pics3/lstm2-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-04-05 15:43:30
-(epstopdf)                    size: 15393 bytes
+(epstopdf)                    date: 2019-04-06 19:30:37
+(epstopdf)                    size: 16968 bytes
 (epstopdf)             Command: <repstopdf --outfile=pics3/lstm2-eps-converted-
 to.pdf pics3/lstm2.eps>
-(epstopdf)             \includegraphics on input line 99.
+(epstopdf)             \includegraphics on input line 94.
 Package epstopdf Info: Output file is already uptodate.
-<pics3/lstm2-eps-converted-to.pdf, id=28, 245.91875pt x 309.155pt>
+<pics3/lstm2-eps-converted-to.pdf, id=28, 245.91875pt x 361.35pt>
 File: pics3/lstm2-eps-converted-to.pdf Graphic file (type pdf)
 <use pics3/lstm2-eps-converted-to.pdf>
 Package pdftex.def Info: pics3/lstm2-eps-converted-to.pdf  used on input line 9
-9.
-(pdftex.def)             Requested size: 130.09239pt x 144.54337pt.
+4.
+(pdftex.def)             Requested size: 108.40346pt x 137.31442pt.
 Package epstopdf Info: Source file: <pics3/sa2.eps>
-(epstopdf)                    date: 2019-04-05 15:42:37
-(epstopdf)                    size: 72754 bytes
+(epstopdf)                    date: 2019-04-06 19:29:06
+(epstopdf)                    size: 90224 bytes
 (epstopdf)             Output file: <pics3/sa2-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-04-05 15:43:31
-(epstopdf)                    size: 15595 bytes
+(epstopdf)                    date: 2019-04-06 19:30:37
+(epstopdf)                    size: 17172 bytes
 (epstopdf)             Command: <repstopdf --outfile=pics3/sa2-eps-converted-to
 .pdf pics3/sa2.eps>
-(epstopdf)             \includegraphics on input line 105.
+(epstopdf)             \includegraphics on input line 100.
 Package epstopdf Info: Output file is already uptodate.
-<pics3/sa2-eps-converted-to.pdf, id=29, 254.9525pt x 309.155pt>
+<pics3/sa2-eps-converted-to.pdf, id=29, 254.9525pt x 356.33125pt>
 File: pics3/sa2-eps-converted-to.pdf Graphic file (type pdf)
 <use pics3/sa2-eps-converted-to.pdf>
-Package pdftex.def Info: pics3/sa2-eps-converted-to.pdf  used on input line 105
+Package pdftex.def Info: pics3/sa2-eps-converted-to.pdf  used on input line 100
 .
-(pdftex.def)             Requested size: 130.09018pt x 144.54337pt.
- [2 <./pics3/architecture2-eps-converted-to.pdf> <./pics3/bert2-eps-converted-t
-o.pdf>]
+(pdftex.def)             Requested size: 108.40588pt x 137.31029pt.
+[2 <./pics3/architecture2-eps-converted-to.pdf> <./pics3/bert2-eps-converted-to
+.pdf>]
 Package epstopdf Info: Source file: <pics3/lstmbaseline2.eps>
-(epstopdf)                    date: 2019-04-05 15:42:37
+(epstopdf)                    date: 2019-04-06 19:29:06
 (epstopdf)                    size: 76707 bytes
 (epstopdf)             Output file: <pics3/lstmbaseline2-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-04-05 15:43:31
+(epstopdf)                    date: 2019-04-06 19:30:38
 (epstopdf)                    size: 15859 bytes
 (epstopdf)             Command: <repstopdf --outfile=pics3/lstmbaseline2-eps-co
 nverted-to.pdf pics3/lstmbaseline2.eps>
-(epstopdf)             \includegraphics on input line 150.
+(epstopdf)             \includegraphics on input line 145.
 Package epstopdf Info: Output file is already uptodate.
 <pics3/lstmbaseline2-eps-converted-to.pdf, id=58, 251.94125pt x 329.23pt>
 File: pics3/lstmbaseline2-eps-converted-to.pdf Graphic file (type pdf)
 <use pics3/lstmbaseline2-eps-converted-to.pdf>
 Package pdftex.def Info: pics3/lstmbaseline2-eps-converted-to.pdf  used on inpu
-t line 150.
+t line 145.
 (pdftex.def)             Requested size: 100.7747pt x 131.68965pt.
  [3 <./pics3/FC22-eps-converted-to.pdf> <./pics3/lstm2-eps-converted-to.pdf> <.
 /pics3/sa2-eps-converted-to.pdf> <./pics3/lstmbaseline2-eps-converted-to.pdf>]
-<pics/acc.png, id=102, 288.3573pt x 231.9867pt>
+<pics/acc.png, id=128, 288.3573pt x 231.9867pt>
 File: pics/acc.png Graphic file (type png)
 <use pics/acc.png>
-Package pdftex.def Info: pics/acc.png  used on input line 166.
+Package pdftex.def Info: pics/acc.png  used on input line 161.
 (pdftex.def)             Requested size: 115.34087pt x 92.79303pt.
-<pics/zhang1.png, id=104, 300.6432pt x 265.9536pt>
+ (/usr/local/texlive/2018/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.bdg
+File: UTF8.bdg 2015/04/18 4.8.4
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.enc
+File: UTF8.enc 2015/04/18 4.8.4
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr
+File: UTF8.chr 2015/04/18 4.8.4
+)
+LaTeX Font Info:    Try loading font information for C70+gbsn on input line 190
+.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/cjk/texinput/UTF8/c70gbsn.fd
+File: c70gbsn.fd 2015/04/18 4.8.4
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/cjk/texinput/UTF8/c70gbsn.fdx
+File: c70gbsn.fdx 2015/04/18 4.8.4
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.enc
+File: UTF8.enc 2015/04/18 4.8.4
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr
+File: UTF8.chr 2015/04/18 4.8.4
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.enc
+File: UTF8.enc 2015/04/18 4.8.4
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr
+File: UTF8.chr 2015/04/18 4.8.4
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.enc
+File: UTF8.enc 2015/04/18 4.8.4
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr
+File: UTF8.chr 2015/04/18 4.8.4
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.enc
+File: UTF8.enc 2015/04/18 4.8.4
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr
+File: UTF8.chr 2015/04/18 4.8.4
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.enc
+File: UTF8.enc 2015/04/18 4.8.4
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr
+File: UTF8.chr 2015/04/18 4.8.4
+)
+<pics/zhang1.png, id=132, 300.6432pt x 265.9536pt>
 File: pics/zhang1.png Graphic file (type png)
 <use pics/zhang1.png>
-Package pdftex.def Info: pics/zhang1.png  used on input line 201.
-(pdftex.def)             Requested size: 119.50148pt x 105.70996pt.
-<pics/di1.png, id=105, 302.0886pt x 266.6763pt>
+Package pdftex.def Info: pics/zhang1.png  used on input line 202.
+(pdftex.def)             Requested size: 113.81102pt x 100.67789pt.
+<pics/di1.png, id=133, 302.0886pt x 266.6763pt>
 File: pics/di1.png Graphic file (type png)
 <use pics/di1.png>
-Package pdftex.def Info: pics/di1.png  used on input line 208.
-(pdftex.def)             Requested size: 119.50148pt x 105.49265pt.
-<pics/attensep.png, id=106, 462.528pt x 346.896pt>
+Package pdftex.def Info: pics/di1.png  used on input line 209.
+(pdftex.def)             Requested size: 113.81102pt x 100.46724pt.
+<pics/attensep.png, id=134, 462.528pt x 346.896pt>
 File: pics/attensep.png Graphic file (type png)
 <use pics/attensep.png>
-Package pdftex.def Info: pics/attensep.png  used on input line 221.
+Package pdftex.def Info: pics/attensep.png  used on input line 222.
 (pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
- (./dai.bbl [4 <./pics/acc.png> <./pics/zhang1.png> <./pics/di1.png> <./pics/at
-tensep.png>]
+
+Underfull \vbox (badness 2961) has occurred while \output is active []
+
+ (./dai.bbl
+[4 <./pics/acc.png> <./pics/zhang1.png> <./pics/di1.png> <./pics/attensep.png>]
+
 Underfull \hbox (badness 1642) in paragraph at lines 62--64
 []\OT1/ptm/m/n/8 J. Sotelo, S. Mehri, K. Ku-mar, J. F. San-tos, K. Kast-ner,
  []
@@ -613,13 +818,13 @@ Underfull \hbox (badness 1881) in paragraph at lines 71--73
 
 ] (./dai.aux) ) 
 Here is how much of TeX's memory you used:
- 4365 strings out of 492649
- 64290 string characters out of 6129622
- 128239 words of memory out of 5000000
- 8134 multiletter control sequences out of 15000+600000
- 31866 words of font info for 78 fonts, out of 8000000 for 9000
+ 5638 strings out of 492649
+ 78858 string characters out of 6129622
+ 146975 words of memory out of 5000000
+ 9315 multiletter control sequences out of 15000+600000
+ 32456 words of font info for 80 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 43i,8n,40p,1367b,299s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 43i,8n,40p,1385b,690s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/base/8r.enc}
 </usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></
 usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></us
@@ -628,14 +833,16 @@ ocal/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/loca
 l/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/t
 exlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/tex
 live/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texli
-ve/2018/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/2018/
-texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2018/texmf-dist
-/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2018/texmf-dist/fonts/typ
-e1/urw/times/utmri8a.pfb>
-Output written on dai.pdf (5 pages, 286649 bytes).
+ve/2018/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu57.pfb></usr/local/texlive/201
+8/texmf-dist/fonts/type1/arphic/gbsnu/gbsnu95.pfb></usr/local/texlive/2018/texm
+f-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/2018/texmf-dist/f
+onts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1
+/urw/times/utmr8a.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/urw/times
+/utmri8a.pfb>
+Output written on dai.pdf (5 pages, 295099 bytes).
 PDF statistics:
- 155 PDF objects out of 1000 (max. 8388607)
- 91 compressed objects within 1 object stream
+ 190 PDF objects out of 1000 (max. 8388607)
+ 115 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 56 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 64 words of extra memory for PDF output out of 10000 (max. 10000000)
 
